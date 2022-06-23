@@ -46,3 +46,4 @@ Modern Levels Allows you to switch between 3 Rank Card Generators:
     <li>3 Rank Generators</li>
     <li>Ready to go in a few clicks</li>
 </ul>
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
